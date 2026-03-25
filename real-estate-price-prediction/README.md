@@ -51,7 +51,7 @@ real-estate-price-prediction/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/real-estate-price-prediction.git
+git clone https://github.com/gargiix/real-estate-price-prediction.git
 cd real-estate-price-prediction
 ```
 
